@@ -1,0 +1,463 @@
+Restaurant Name,Price Range,Restauarant Website
+Oriole,215 USD,https://www.oriolechicago.com/
+Ever,285 USD,N/A
+Smyth,225 - 280 USD,https://www.smythandtheloyalist.com/
+Moody Tongue,200 USD,https://www.moodytongue.com/
+Jônt,50 - 305 USD,N/A
+minibar,295 USD,https://www.minibarbyjoseandres.com/
+Pineapple and Pearls,150 - 325 USD,https://www.pineappleandpearls.com/
+L'Atelier de Joël Robuchon,103 - 235 USD,https://latelier-newyork.com/
+Jungsik,165 - 235 USD,https://www.jungsik.com/
+Atera,285 USD,http://www.ateranyc.com/
+Jean-Georges,75 - 248 USD,https://www.jean-georgesrestaurant.com/
+Ko,225 USD,https://www.momofuku.com/
+Gabriel Kreuther,90 - 245 USD,https://www.gknyc.com/
+Ichimura at Uchū,300 USD,https://www.uchu.nyc/
+Atomix,205 USD,N/A
+The Modern,138 - 188 USD,https://www.themodernnyc.com/
+Aquavit,58 - 155 USD,https://www.aquavit.org/
+Daniel,158 - 250 USD,https://www.danielnyc.com/
+Aska,195 - 295 USD,https://www.askanyc.com/
+Blanca,198 USD,https://www.blancanyc.com/
+Kikunoi Roan,"9,000 - 32,000 JPY",https://kikunoi.jp/
+Sumibi Kappo Ifuki,"24,000 - 35,000 JPY",https://gion-ifuki.com/
+Shimmonzen Yonemura,"10,000 - 21,000 JPY",https://r-yonemura.jp/
+Miyamaso,"19,000 - 32,000 JPY",http://miyamasou.jp/
+Sojiki Nakahigashi,"9,000 - 26,000 JPY",https://www.soujiki-nakahigashi.co.jp/
+Otagi,"22,000 JPY",N/A
+Kyotenjin Noguchi,"30,000 - 35,000 JPY",N/A
+Wagokoro Izumi,"7,000 - 29,000 JPY",N/A
+Gion Owatari,"32,000 JPY",N/A
+Oryori Mitsuyasu,"20,000 JPY",http://kyoto-mitsuyasu.com/
+Twins Garden,"2,500 - 15,000 RUB",http://twinsgarden.ru/
+ARTEST - Chef's Table,"15,000 - 20,000 RUB",https://artest.rest/
+Harbor House,180 USD,https://www.theharborhouseinn.com/
+Vespertine,295 USD,www.vespertine.la
+Providence,225 - 475 USD,https://www.providencela.com/
+Sushi Ginza Onodera,300 USD,https://www.onodera-group.com/
+Addison,175 - 275 USD,https://www.addisondelmar.com/
+Commis,189 USD,www.commisrestaurant.com
+Mélisse,295 USD,https://www.citrinandmelisse.com/
+Hayato,260 USD,https://www.hayatorestaurant.com/
+Patrick Guilbaud,65 - 205 EUR,https://www.restaurantpatrickguilbaud.ie/
+Andrew Fairlie at Gleneagles,115 - 155 GBP,https://www.andrewfairlie.co.uk/
+L'Enclume,79 - 175 GBP,https://www.lenclume.co.uk/
+Moor Hall,95 - 195 GBP,https://www.moorhall.com/
+Raby Hunt,230 - 300 GBP,https://www.rabyhuntrestaurant.co.uk/
+Il Gallo d'Oro,130 - 200 EUR,www.ilgallodoro.com
+Restaurant Sat Bains,120 - 155 GBP,https://www.restaurantsatbains.com/
+The Dining Room,145 GBP,https://www.whatleymanor.com/
+Culler de Pau,95 - 150 EUR,www.cullerdepau.com
+L'Auberge des Glazicks,70 - 180 EUR,https://www.aubergedesglazick.com/
+"Le Manoir aux Quat' Saisons, a Belmond Hotel",136 - 194 GBP,https://www.belmond.com/
+RE-NAA,"2,400 NOK",https://www.restaurantrenaa.no/
+Hand and Flowers,40 - 115 GBP,https://www.thehandandflowers.co.uk/
+Casa de Chá da Boa Nova,70 - 195 EUR,www.casadechadaboanova.pt
+The Yeatman,180 EUR,www.the-yeatman-hotel.com
+Midsummer House,115 - 230 GBP,www.midsummerhouse.co.uk/
+Le Gavroche,85 - 178 GBP,https://www.le-gavroche.co.uk/
+Claude Bosi at Bibendum,105 - 175 GBP,https://www.claudebosi.com/
+Dinner by Heston Blumenthal,87 - 106 GBP,https://www.dinnerbyheston.com/
+Kitchen Table,150 - 195 GBP,https://www.kitchentablelondon.co.uk/
+a|o|c,"2,500 DKK",https://www.aoc.dk/
+Jordnær,"2,700 DKK",www.restaurantjordnaer.dk/
+Kong Hans Kælder,"1,700 DKK",https://www.konghans.dk/
+Alchemist,"3,500 DKK",https://www.alchemist.dk/
+Shoukouwa,320 - 650 SGD,https://www.shoukouwa.com.sg/
+Shisen Hanten,50 - 150 SGD,https://www.shisenhanten.com.sg/
+Saint Pierre,158 - 388 SGD,https://www.saintpierre.com.sg/
+Waku Ghin,550 - 700 SGD,https://www.marinabaysands.com/
+Jaan by Kirk Westaway,118 - 288 SGD,https://www.jaan.com.sg/
+Shoun Ryugin,"4,500 - 6,500 TWD",https://www.nihonryori-ryugin.com.tw/
+Logy,"3,750 TWD",N/A
+JL Studio,"3,800 TWD",https://jlstudiotw.com/
+Sushi Amamoto,"3,000 - 5,000 TWD",N/A
+L'Atelier de Joël Robuchon,"1,580 - 6,880 TWD",https://www.robuchon.com.tw/
+The Guest House,"1,200 - 4,280 TWD",https://www.sheratongrandtaipei.com/
+Taïrroir,"2,180 - 4,680 TWD",https://www.tairroir.com/
+Raw,"1,850 - 3,500 TWD",N/A
+The Modern,138 - 188 USD,https://www.themodernnyc.com/
+Blue Hill at Stone Barns,195 - 278 USD,http://www.bluehillfarm.com/
+Ko,225 USD,https://www.momofuku.com/
+Vila Joya,110 - 195 EUR,www.vilajoya.com/
+Boury,80 - 160 EUR,https://www.restaurantboury.be/
+Atrio,185 EUR,www.restauranteatrio.com
+De Kromme Watergang,62 - 225 EUR,https://www.krommewatergang.nl/
+La Durée,65 - 232 EUR,https://www.laduree.be/
+De Bokkedoorns,69 - 147 EUR,https://www.bokkedoorns.nl/
+Castor,45 - 120 EUR,https://www.cas-tor.be/
+Henne Kirkeby Kro,"650 - 1,495 DKK",https://www.hennekirkebykro.dk/
+FG - François Geurds,55 - 210 EUR,https://www.fgrestaurant.nl/
+Spectrum,95 - 180 EUR,https://www.restaurantspectrum.com/
+Restaurant 212,74 - 158 EUR,https://www.restaurant-212.com/
+Aan de Poel,48 - 140 EUR,https://www.aandepoel.nl/
+Ciel Bleu,195 - 225 EUR,https://www.okura.nl/
+Parkheuvel,44 - 165 EUR,https://www.parkheuvel.nl/
+Fred,59 - 169 EUR,https://www.restaurantfred.nl/
+Vrijmoed,69 - 198 EUR,https://www.vrijmoed.be/
+Château du Mylord,95 - 270 EUR,https://www.mylord.be/
+The Jane,215 EUR,https://www.thejaneantwerp.com/
+Maison Rostang,90 - 203 EUR,https://www.maisonrostang.com/
+Le Taillevent,90 - 245 EUR,https://www.letaillevent.com/
+La Scène,75 - 250 EUR,https://www.la-scene.paris/
+Le Clarence,90 - 320 EUR,https://www.le-clarence.paris/
+Le Gabriel,75 - 195 EUR,https://www.lareserve-paris.com/
+David Toutain,100 - 250 EUR,https://www.davidtoutain.com/
+Le Grand Restaurant - Jean-François Piège,120 - 290 EUR,http://www.jeanfrancoispiege.com/
+L'Abysse au Pavillon Ledoyen,98 - 280 EUR,https://www.yannick-alleno.com/
+Sur Mesure par Thierry Marx,85 - 195 EUR,https://www.mandarinoriental.fr/paris
+Le Meurice Alain Ducasse,250 - 320 EUR,https://www.alainducasse-meurice.com/fr
+Marsan par Hélène Darroze,75 - 225 EUR,https://www.helenedarroze.com/
+Les Hauts de Loire,89 - 175 EUR,https://www.hautsdeloire.com/
+Pastorale,65 - 195 EUR,https://www.depastorale.be/
+d'Eugénie à Emilie,85 - 200 EUR,http://www.fernez.com/deugenie-a-emilie
+'t Nonnetje,50 - 150 EUR,https://www.hetnonnetje.nl/
+De Lindenhof,85 - 175 EUR,https://www.restaurantdelindenhof.nl/
+Nuance,75 - 215 EUR,https://www.resto-nuance.be/
+Le Skiff Club,140 - 160 EUR,https://www.haaitza.com/
+Söl'ring Hof,214 - 284 EUR,https://www.soelring-hof.de/
+La Paix,105 - 235 EUR,https://www.lapaix.eu/
+Comme chez Soi,69 - 355 EUR,https://www.commechezsoi.be/
+La Maison d'à Côté,88 - 178 EUR,https://www.lamaisondacote.fr/
+Falco,95 - 262 EUR,https://www.falco-leipzig.de/
+Hirschen,98 - 270 EUR,https://www.douce-steiner.de/
+EssZimmer,180 - 275 EUR,https://www.feinkost-kaefer.de/esszimmer-muenchen
+Gustav,120 - 165 EUR,www.restaurant-gustav.de
+Luce d'Oro,189 - 229 EUR,www.schloss-elmau.de
+Courtier,159 - 215 EUR,https://www.weissenhaus.de/
+Steinheuers Restaurant Zur Alten Post,120 - 195 EUR,https://www.steinheuers.de/
+CODA Dessert Dining,93 - 158 EUR,https://www.coda-berlin.com/
+bianc,190 EUR,http://www.bianc.de/
+Le Cerf,75 - 174 EUR,https://www.schlosshotel-friedrichsruhe.de/
+Meierei Dirk Luther,178 - 198 EUR,www.alter-meierhof.de
+Tim Raue,88 - 248 EUR,https://www.tim-raue.com/
+Söl'ring Hof,214 - 284 EUR,https://www.soelring-hof.de/
+GästeHaus Klaus Erfort,105 - 225 EUR,https://www.gaestehaus-erfort.de/
+Ophelia,190 - 240 EUR,https://www.restaurant-ophelia.de/
+Obendorfer's Eisvogel,142 - 190 EUR,https://www.landhotel-birkenhof.de/
+OPUS V,99 - 195 EUR,https://www.restaurant-opus-v.de/
+ammolite - The Lighthouse Restaurant,119 - 169 EUR,https://www.ammolite-restaurant.de/
+Les Deux,185 EUR,www.lesdeux-muc.de
+AUGUST,179 - 210 EUR,https://www.restaurantaugust.de/
+Meierei Dirk Luther,178 - 198 EUR,www.alter-meierhof.de
+Racine,70 - 195 EUR,https://www.racine.re/
+El Molino de Urdániz,120 - 140 EUR,www.elmolinourdaniz.com
+Le Parc Les Crayères,75 - 295 EUR,www.lescrayeres.com
+Ralf Berendsen,95 - 225 EUR,https://www.restaurantlasource.be/
+Sabero,90 - 139 EUR,http://www.restaurant-sabero.nl/
+Brut172,90 - 185 EUR,https://www.brut172.com/
+La Table de Maxime,50 - 109 EUR,https://www.maximecollard.be/
+La Côte Saint-Jacques,85 - 238 EUR,https://www.cotesaintjacques.com/
+Rosin,99 - 159 EUR,https://www.frankrosin.de/
+Noor,95 - 190 EUR,www.noorrestaurant.es
+Le Moissonnier,90 - 165 EUR,www.lemoissonnier.de
+Ox & Klee,230 EUR,https://www.oxundklee.de/
+Courtier,159 - 215 EUR,https://www.weissenhaus.de/
+Haerlin,190 - 250 EUR,https://www.restaurant-haerlin.de/
+bianc,190 EUR,http://www.bianc.de/
+Jordnær,"2,700 DKK",www.restaurantjordnaer.dk/
+Bardal,150 - 170 EUR,www.restaurantebardal.com
+a|o|c,"2,500 DKK",https://www.aoc.dk/
+Kong Hans Kælder,"1,700 DKK",https://www.konghans.dk/
+Cà d'Oro,140 - 190 CHF,https://www.kempinski.com/stmoritz
+Ecco,185 - 240 CHF,https://www.giardino-ascona.ch/
+Anne-Sophie Pic,207 - 395 CHF,https://www.brp.ch/
+Taverne zum Schäfli,89 - 220 CHF,https://www.schaefli-wigoltingen.ch/
+Ecco St. Moritz,215 - 270 CHF,https://www.giardinohotels.ch/
+Einstein Gourmet,165 - 215 CHF,https://www.einstein.ch/
+7132 Silver,275 CHF,https://www.7132silver.com/
+Domaine de Châteauvieux,98 - 320 CHF,https://www.chateauvieux.ch/
+The Restaurant,112 - 298 CHF,https://www.thedoldergrand.com/
+Gasthaus Zur Fernsicht - Incantare,169 - 230 CHF,https://www.fernsicht-heiden.ch/
+Magdalena,59 - 135 CHF,https://www.restaurant-magdalena.ch/
+Memories,195 - 330 CHF,https://www.memories.ch/
+IGNIV by Andreas Caminada,195 - 245 CHF,https://www.badruttspalace.com/
+Widder Restaurant,145 - 260 CHF,https://www.widderhotel.com/
+Adelboden,148 - 195 CHF,https://www.wiget-adelboden.ch/
+IGNIV by Andreas Caminada,158 - 248 CHF,https://www.igniv.com/
+Pavillon,162 - 275 CHF,https://www.aupavillon.ch/
+Sens,145 - 195 CHF,https://www.vitznauerhof.ch/
+RICO'S,66 - 260 CHF,https://www.ricozandonella.ch/
+Sichuan Moon,"1,688 - 3,268 MOP",www.wynnpalace.com
+Serge Vieira,95 - 165 EUR,https://www.sergevieira.com/
+Bras,170 - 245 EUR,https://www.bras.fr/
+Au 14 Février,87 - 125 EUR,https://www.sa-au14fevrier.com/
+Villa René Lalique,80 - 205 EUR,https://www.villarenelalique.com/
+Lafleur,195 - 215 EUR,https://www.restaurant-lafleur.de/
+Gustav,120 - 165 EUR,www.restaurant-gustav.de
+Auberge du Cheval Blanc,82 - 135 EUR,https://www.au-cheval-blanc.fr/
+Maison Jeunet,65 - 155 EUR,https://www.maison-jeunet.com/
+La Merise,55 - 135 EUR,https://www.lamerise.alsace/
+La Table de Franck Putelat,75 - 230 EUR,https://www.franck-putelat.com/
+Paul Bocuse,185 - 285 EUR,https://www.bocuse.fr/
+OPUS V,99 - 195 EUR,https://www.restaurant-opus-v.de/
+Mère Brazier,75 - 190 EUR,https://www.lamerebrazier.fr/
+Takao Takano,50 - 150 EUR,https://www.takaotakano.com/
+Le Neuvième Art,105 - 175 EUR,https://www.leneuviemeart.com/
+La Fourchette des Ducs,140 - 210 EUR,http://www.lafourchettedesducs.com/
+La Table d'Olivier Nasti,165 - 240 EUR,https://www.lechambard.fr/
+Maralba,65 - 99 EUR,www.maralbarestaurante.es
+Auberge de l'Ill,110 - 260 EUR,https://www.auberge-de-l-ill.com/
+La Pyramide - Patrick Henriroux,79 - 204 EUR,https://www.lapyramide.com/
+The Dining Room,145 GBP,https://www.whatleymanor.com/
+La Dame de Pic,45 - 160 GBP,https://www.ladamedepiclondon.co.uk/
+L'Enclume,79 - 175 GBP,https://www.lenclume.co.uk/
+Da Terra,70 - 140 GBP,https://www.daterra.co.uk/
+Restaurant Sat Bains,120 - 155 GBP,https://www.restaurantsatbains.com/
+Raby Hunt,230 - 300 GBP,https://www.rabyhuntrestaurant.co.uk/
+Moor Hall,95 - 195 GBP,https://www.moorhall.com/
+Story,120 - 170 GBP,https://www.restaurantstory.co.uk/
+Andrew Fairlie at Gleneagles,115 - 155 GBP,https://www.andrewfairlie.co.uk/
+"Le Manoir aux Quat' Saisons, a Belmond Hotel",136 - 194 GBP,https://www.belmond.com/
+Midsummer House,115 - 230 GBP,www.midsummerhouse.co.uk/
+Hand and Flowers,40 - 115 GBP,https://www.thehandandflowers.co.uk/
+Dinner by Heston Blumenthal,87 - 106 GBP,https://www.dinnerbyheston.com/
+A. Wong,48 - 160 GBP,http://www.awong.co.uk/
+Kitchen Table,150 - 195 GBP,https://www.kitchentablelondon.co.uk/
+Claude Bosi at Bibendum,105 - 175 GBP,https://www.claudebosi.com/
+Auberge du Cheval Blanc,82 - 135 EUR,https://www.au-cheval-blanc.fr/
+La Table d'Olivier Nasti,165 - 240 EUR,https://www.lechambard.fr/
+La Table de l'Alpaga,120 - 180 EUR,https://www.alpaga.com/
+Jean Sulpice,225 - 265 EUR,https://www.perebise.com/
+La Pyramide - Patrick Henriroux,79 - 204 EUR,https://www.lapyramide.com/
+Le Montgomerie,190 - 315 EUR,https://www.lek2altitude.com/
+Serge Vieira,95 - 165 EUR,https://www.sergevieira.com/
+Racine,70 - 195 EUR,https://www.racine.re/
+Sarkara,107 - 135 EUR,https://www.lek2palace.com/
+Au 14 Février,87 - 125 EUR,https://www.sa-au14fevrier.com/
+La Côte d'Or,160 - 245 EUR,https://www.bernard-loiseau.com/
+La Maison des Bois - Marc Veyrat,295 - 395 EUR,https://www.marc-veyrat.fr/
+Les Hauts de Loire,89 - 175 EUR,https://www.hautsdeloire.com/
+Alexandre,64 - 215 EUR,https://www.michelkayser.com/
+La Table de Pavie,72 - 215 EUR,https://www.hostelleriedeplaisance.com/
+Le Kintessence,190 - 315 EUR,https://www.lek2palace.com/
+Le Parc Les Crayères,75 - 295 EUR,www.lescrayeres.com
+Maison Rostang,90 - 203 EUR,https://www.maisonrostang.com/
+La Scène,75 - 250 EUR,https://www.la-scene.paris/
+Le Pré - Xavier Beaudiment,39 - 155 EUR,https://www.restaurant-lepre.com/
+La Côte Saint-Jacques,85 - 238 EUR,https://www.cotesaintjacques.com/
+Le Clarence,90 - 320 EUR,https://www.le-clarence.paris/
+La Villa Archange,78 - 350 EUR,https://www.bruno-oger.com/fr
+Paul Bocuse,185 - 285 EUR,https://www.bocuse.fr/
+Le Grand Restaurant - Jean-François Piège,120 - 290 EUR,http://www.jeanfrancoispiege.com/
+Le Neuvième Art,105 - 175 EUR,https://www.leneuviemeart.com/
+Le Pressoir d'Argent - Gordon Ramsay,160 - 250 EUR,https://www.bordeaux.intercontinental.com/
+La Marine,130 - 220 EUR,https://www.alexandrecouillon.com/
+Hostellerie Jérôme,110 - 159 EUR,https://www.hostellerie-jerome.com/
+Les Morainières,148 - 220 EUR,https://www.les-morainieres.com/
+Relais de la Poste,60 - 150 EUR,https://www.relaisposte.com/
+Le Taillevent,90 - 245 EUR,https://www.letaillevent.com/
+L'Abysse au Pavillon Ledoyen,98 - 280 EUR,https://www.yannick-alleno.com/
+Anne de Bretagne,45 - 165 EUR,https://www.annedebretagne.com/
+David Toutain,100 - 250 EUR,https://www.davidtoutain.com/
+Château de Beaulieu - Christophe Dufossé,90 - 220 EUR,www.lechateaudebeaulieu.fr
+Le Puits St-Jacques,35 - 143 EUR,https://www.lepuitssaintjacques.fr/
+Les Cèdres,110 - 175 EUR,https://www.restaurantlescedres.fr/
+Takao Takano,50 - 150 EUR,https://www.takaotakano.com/
+Villa René Lalique,80 - 205 EUR,https://www.villarenelalique.com/
+Le Meurice Alain Ducasse,250 - 320 EUR,https://www.alainducasse-meurice.com/fr
+Le Chabichou by Stéphane Buron,175 - 320 EUR,https://www.chabichou-courchevel.com/
+JY'S,107 - 185 EUR,https://www.jean-yves-schillinger.com/
+La Grenouillère,155 - 215 EUR,https://www.lagrenouillere.fr/
+La Villa Madie,130 - 235 EUR,https://www.lavillamadie.com/
+AUGUST,179 - 210 EUR,https://www.restaurantaugust.de/
+IGNIV by Andreas Caminada,158 - 248 CHF,https://www.igniv.com/
+Memories,195 - 330 CHF,https://www.memories.ch/
+Piccolo Lago,180 EUR,https://www.piccololago.it/
+7132 Silver,275 CHF,https://www.7132silver.com/
+Villa Crespi,140 - 190 EUR,https://www.villacrespi.it/
+Ecco,185 - 240 CHF,https://www.giardino-ascona.ch/
+Obendorfer's Eisvogel,142 - 190 EUR,https://www.landhotel-birkenhof.de/
+Antica Corona Reale,80 - 130 EUR,https://www.anticacoronareale.it/
+EssZimmer,180 - 275 EUR,https://www.feinkost-kaefer.de/esszimmer-muenchen
+La Madernassa,80 - 300 EUR,https://www.lamadernassa.it/
+Les Deux,185 EUR,www.lesdeux-muc.de
+Alois - Dallmayr Fine Dining,78 - 220 EUR,https://www.dallmayr.com/alois
+Ecco St. Moritz,215 - 270 CHF,https://www.giardinohotels.ch/
+IGNIV by Andreas Caminada,195 - 245 CHF,https://www.badruttspalace.com/
+Da Vittorio,170 - 420 CHF,https://www.carlton-stmoritz.ch/
+Cà d'Oro,140 - 190 CHF,https://www.kempinski.com/stmoritz
+La Villa Archange,78 - 350 EUR,https://www.bruno-oger.com/fr
+La Voile - La Réserve Ramatuelle,135 - 210 EUR,https://www.lareserve-ramatuelle.com/
+La Palme d'Or,168 - 240 EUR,www.lapalmedor-restaurant.fr
+D'O,95 - 165 EUR,https://www.cucinapop.do/
+Flaveur,130 - 200 EUR,https://www.restaurant-flaveur.com/
+Luce d'Oro,189 - 229 EUR,www.schloss-elmau.de
+La Chèvre d'Or,90 - 260 EUR,https://www.chevredor.com/
+Hostellerie Jérôme,110 - 159 EUR,https://www.hostellerie-jerome.com/
+Il Luogo di Aimo e Nadia,115 - 280 EUR,https://www.aimoenadia.com/
+Seta by Antonio Guida,90 - 230 EUR,https://www.mandarinoriental.com/
+Restaurant Heinz Winkler,96 - 205 EUR,https://www.residenz-heinz-winkler.de/
+Castel finedining,178 - 208 EUR,https://www.castelfinedining.com
+Miramonti l'Altro,90 - 150 EUR,https://www.miramontilaltro.it/
+Gourmetstube Einhorn,130 - 165 EUR,https://www.stafler.com/
+Terra,179 EUR,https://www.terra.place/
+Villa Feltrinelli,220 EUR,https://www.villafeltrinelli.com/
+Ikarus,140 - 210 EUR,https://www.hangar-7.com/
+SENNS.Restaurant,85 - 205 EUR,https://www.senns.restaurant/
+Casa Perbellini,65 - 185 EUR,https://www.casaperbellini.com/
+La Peca,95 - 200 EUR,https://www.lapeca.it/
+Il Piccolo Principe,130 - 230 EUR,https://www.ristoranteilpiccoloprincipe.it/
+Antica Osteria Cera,70 - 250 EUR,https://www.osteriacera.it/
+Vrijmoed,69 - 198 EUR,https://www.vrijmoed.be/
+The Jane,215 EUR,https://www.thejaneantwerp.com/
+Ralf Berendsen,95 - 225 EUR,https://www.restaurantlasource.be/
+La Table de Maxime,50 - 109 EUR,https://www.maximecollard.be/
+Comme chez Soi,69 - 355 EUR,https://www.commechezsoi.be/
+Boury,80 - 160 EUR,https://www.restaurantboury.be/
+Slagmolen,60 - 160 EUR,https://www.slagmolen.be/
+Hostellerie St-Nicolas,55 - 155 EUR,https://www.hostellerie-stnicolas.com/
+Castor,45 - 120 EUR,https://www.cas-tor.be/
+Pastorale,65 - 195 EUR,https://www.depastorale.be/
+Château du Mylord,95 - 270 EUR,https://www.mylord.be/
+Cuchara,65 - 205 EUR,https://www.cuchara.be/
+La Paix,105 - 235 EUR,https://www.lapaix.eu/
+Sorn,"3,500 THB",http://www.sornfinesouthern.com/
+Chef's Table,"7,900 THB",https://www.lebua.com/chefs-table
+R-Haan,"1,219 - 2,912 THB",https://www.r-haan.com/
+Mezzaluna,"6,500 THB",https://www.lebua.com/mezzaluna
+Sühring,"3,500 - 5,500 THB",https://www.restaurantsuhring.com/
+Le Normandie,"3,200 - 8,200 THB",https://www.mandarinoriental.com/bangkok
+Casa de Chá da Boa Nova,70 - 195 EUR,www.casadechadaboanova.pt
+Ocean,210 EUR,www.restauranteocean.com
+The Yeatman,180 EUR,www.the-yeatman-hotel.com
+Belcanto,125 - 195 EUR,www.belcanto.pt
+Il Gallo d'Oro,130 - 200 EUR,www.ilgallodoro.com
+Vila Joya,110 - 195 EUR,www.vilajoya.com/
+Alma,83 - 145 EUR,www.almalisboa.pt
+Disfrutar,165 - 210 EUR,www.disfrutarbarcelona.com
+Ramón Freixa Madrid,90 - 165 EUR,www.ramonfreixamadrid.com
+Cinc Sentits,119 - 139 EUR,www.cincsentits.com
+Noor,95 - 190 EUR,www.noorrestaurant.es
+El Molino de Urdániz,120 - 140 EUR,www.elmolinourdaniz.com
+Cabaña Buenavista,70 - 140 EUR,www.cabanabuenavista.com
+M.B,105 - 165 EUR,www.ritzcarlton.com
+Coque,198 - 230 EUR,www.restaurantecoque.com
+Casa Marcial,70 - 180 EUR,www.casamarcial.com
+Ricard Camarena,135 - 175 EUR,www.ricardcamarenarestaurant.com
+Moments,130 - 189 EUR,www.mandarinoriental.es
+Atrio,185 EUR,www.restauranteatrio.com
+Maralba,65 - 99 EUR,www.maralbarestaurante.es
+BonAmb,90 - 160 EUR,www.bonamb.com
+Les Cols,155 EUR,www.lescols.com
+Miramar,125 - 195 EUR,www.restaurantmiramar.com
+Enoteca Paco Pérez,175 EUR,www.enotecapacoperez.com
+L'Escaleta,60 - 135 EUR,www.lescaleta.com
+Mugaritz,231 EUR,www.mugaritz.com
+Skina,165 - 189 EUR,www.restauranteskina.com
+Culler de Pau,95 - 150 EUR,www.cullerdepau.com
+Bo.TiC,95 - 180 EUR,www.bo-tic.com
+Cocina Hermanos Torres,42 - 195 EUR,www.cocinahermanostorres.com
+Bardal,150 - 170 EUR,www.restaurantebardal.com
+El Portal de Echaurren,150 - 165 EUR,www.echaurren.com
+DSTAgE,145 - 170 EUR,www.dstageconcept.com
+Paco Roncero,85 - 148 EUR,www.pacoroncerorestaurante.com
+Angle,145 - 160 EUR,www.anglebarcelona.com
+El Poblet,98 - 135 EUR,www.elpobletrestaurante.com
+BEIGE Alain Ducasse,"12,000 - 30,000 JPY",http://beige-tokyo.com/
+Sushi Kanesaka,"19,000 - 37,000 JPY",http://www.sushi-kanesaka.com/
+Jingumae Higuchi,"31,000 - 37,000 JPY",N/A
+Jushu,"19,000 - 25,000 JPY",N/A
+Daigo,"16,000 - 25,000 JPY",http://www.atago-daigo.jp/
+Florilège,"9,500 - 19,000 JPY",https://www.aoyama-florilege.jp/
+Jingumae Higuchi,"31,000 - 37,000 JPY",N/A
+L'ATELIER de Joël Robuchon,"4,000 - 22,000 JPY",https://www.robuchon.jp/
+Azabu Yukimura,"43,000 - 49,000 JPY",N/A
+Sukiyabashi Jiro Roppongiten,"25,000 - 39,000 JPY",N/A
+Jushu,"19,000 - 25,000 JPY",N/A
+PRISMA,"19,000 - 21,000 JPY",N/A
+Usukifugu Yamadaya,"29,000 - 41,000 JPY",https://www.usukifugu-yamadaya.jp/
+Seizan,"18,000 - 50,000 JPY",https://seizan-mita.com/
+Seisoka,"8,500 - 43,000 JPY",https://seisoka.com/
+Tentempura Uchitsu,"31,000 JPY",http://tempura-uchitsu.com/
+Tempura Ginya,"21,000 JPY",N/A
+LA TABLE de Joël Robuchon,"6,500 - 21,000 JPY",https://www.robuchon.jp/
+Sushi Kimura,"26,000 - 33,000 JPY",N/A
+Miyamaso,"19,000 - 32,000 JPY",http://miyamasou.jp/
+Sojiki Nakahigashi,"9,000 - 26,000 JPY",https://www.soujiki-nakahigashi.co.jp/
+Kyokaiseki Kichisen,"15,000 - 39,000 JPY",https://www.kichisen-kyoto.com/
+Otagi,"22,000 JPY",N/A
+Yusokuryori Mankamero,"13,000 - 38,000 JPY",http://www.mankamerou.com/
+Shimmonzen Yonemura,"10,000 - 21,000 JPY",https://r-yonemura.jp/
+Kappo Chihiro,"19,000 - 27,000 JPY",http://www.kyotochihiro.com/
+Oryori Mitsuyasu,"20,000 JPY",http://kyoto-mitsuyasu.com/
+Kodaiji Wakuden,"28,000 - 50,000 JPY",https://www.wakuden.jp/
+Gion Maruyama,"11,000 - 64,000 JPY",https://gionmaruyama.com/
+Gion Matayoshi,"12,000 - 37,000 JPY",http://www.gion-matayoshi.com/
+Kyotenjin Noguchi,"30,000 - 35,000 JPY",N/A
+Sumibi Kappo Ifuki,"24,000 - 35,000 JPY",https://gion-ifuki.com/
+Gion Owatari,"32,000 JPY",N/A
+Gion Nishikawa,"6,500 - 31,000 JPY",http://r.goope.jp/gion-nishikawa/
+Kikunoi Roan,"9,000 - 32,000 JPY",https://kikunoi.jp/
+Kenninji Gion Maruyama,"11,000 - 64,000 JPY",https://gionmaruyama.com/
+Ogata,"50,000 - 60,000 JPY",N/A
+Wagokoro Izumi,"7,000 - 29,000 JPY",N/A
+Shunsaiten Tsuchiya,"8,000 - 24,000 JPY",http://www.shunsaiten-tsuchiya.com/
+Tenjimbashi Aoki,"22,000 JPY",N/A
+Sushiyoshi,"25,000 JPY",N/A
+Miyamoto,"19,000 JPY",N/A
+KAHALA,"31,000 JPY",N/A
+Numata,"22,000 JPY",N/A
+Koryu,"33,000 JPY",https://www.koryu.net/
+La Peca,95 - 200 EUR,https://www.lapeca.it/
+Quattro Passi,75 - 200 EUR,http://www.ristorantequattropassi.com/
+La Madia,90 - 170 EUR,http://www.ristorantelamadia.it
+La Trota,90 - 130 EUR,https://www.latrota.com/
+Villa Crespi,140 - 190 EUR,https://www.villacrespi.it/
+Taverna Estia,95 - 180 EUR,https://www.tavernaestia.it/
+Caino,115 - 190 EUR,http://www.dacaino.it/
+Il Piccolo Principe,130 - 230 EUR,https://www.ristoranteilpiccoloprincipe.it/
+Antica Osteria Cera,70 - 250 EUR,https://www.osteriacera.it/
+Duomo,65 - 190 EUR,https://www.cicciosultano.it/
+L'Olivo,125 - 210 EUR,https://www.capripalace.com/
+Casa Perbellini,65 - 185 EUR,https://www.casaperbellini.com/
+Don Alfonso 1890,120 - 190 EUR,https://www.donalfonso.com/
+Glam Enrico Bartolini,130 - 230 EUR,http://www.ristoranteglam.com
+Harry's Piccolo,100 - 200 EUR,https://www.harrystrieste.it/
+Arnolfo,120 - 160 EUR,https://www.arnolfo.com/
+La Madernassa,80 - 300 EUR,https://www.lamadernassa.it/
+Miramonti l'Altro,90 - 150 EUR,https://www.miramontilaltro.it/
+Antica Corona Reale,80 - 130 EUR,https://www.anticacoronareale.it/
+D'O,95 - 165 EUR,https://www.cucinapop.do/
+Villa Feltrinelli,220 EUR,https://www.villafeltrinelli.com/
+Bracali,135 - 225 EUR,https://www.mondobracali.it/
+Santa Elisabetta,74 - 199 EUR,https://www.ristorantesantaelisabetta.it/
+Torre del Saracino,105 - 220 EUR,https://www.torredelsaracino.it/
+Magnolia,95 - 140 EUR,https://www.magnoliaristorante.it/
+Piccolo Lago,180 EUR,https://www.piccololago.it/
+Il Luogo di Aimo e Nadia,115 - 280 EUR,https://www.aimoenadia.com/
+Gourmetstube Einhorn,130 - 165 EUR,https://www.stafler.com/
+Il Pagliaccio,85 - 185 EUR,https://www.ristoranteilpagliaccio.com/
+San Domenico,60 - 180 EUR,https://www.sandomenico.it/
+Seta by Antonio Guida,90 - 230 EUR,https://www.mandarinoriental.com/
+Madonnina del Pescatore,65 - 175 EUR,https://www.morenocedroni.it/
+Kojima,"200,000 - 380,000 KRW",N/A
+L'Impression,"100,000 - 220,000 KRW",http://www.limpression.co.kr/
+alla Prima,"77,000 - 200,000 KRW",https://www.allaprima.co.kr/
+Jungsik,"78,000 - 230,000 KRW",https://www.jungsik.kr/
+Mosu,"140,000 - 270,000 KRW",http://mosuseoul.com
+Kwonsooksoo,"105,000 - 240,000 KRW",https://www.kwonsooksoo.com/
+Mingles,"120,000 - 220,000 KRW",http://www.restaurant-mingles.com/
+Shanghai Cuisine,"300 - 1,000 CNY",N/A
+Jingji,"300 - 2,000 CNY",N/A
+Taian Table,"1,858 - 2,188 CNY",https://taian-table.cn/
+Ji Pin Court,"200 - 1,000 CNY",N/A
+Da Vittorio,"688 - 2,888 CNY",https://www.davittorio.com/
+L'Atelier de Joël Robuchon,"600 - 1,798 CNY",http://www.joelrobuchon-china.com/
+8 ½ Otto e Mezzo Bombana,"698 - 2,380 CNY",https://www.ottoemezzobombana.com/
+Imperial Treasure Fine Chinese Cuisine (Huangpu),"200 - 1,000 CNY",https://www.imperialtreasure.com/
+Canton 8 (Runan Street),100 - 500 CNY,N/A
+Bao Li Xuan,"300 - 1,288 CNY",https://www.bulgarihotels.com/shanghai
+YongFoo Élite,"400 - 1,000 CNY",N/A
+Xin Rong Ji (Nanyang Road),"1,000 - 2,500 CNY",www.xinrongji.cc
+D.O.M.,415 - 700 BRL,http://www.domrestaurante.com.br/
+Ryo Gastronomia,160 - 650 BRL,https://www.ryogastronomia.com.br/
+Oteque,440 BRL,https://www.oteque.com/
+Oro,445 - 555 BRL,http://www.ororestaurante.com.br/
+Spondi,120 - 165 EUR,https://www.spondi.gr/
+Silvio Nickol Gourmet Restaurant,23 - 165 EUR,https://www.palais-coburg.com/
+Steirereck im Stadtpark,74 - 169 EUR,https://www.steirereck.at/
+Mraz & Sohn,145 EUR,https://www.mrazundsohn.at/
+Konstantin Filippou,56 - 189 EUR,https://www.konstantinfilippou.com/
+SENNS.Restaurant,85 - 205 EUR,https://www.senns.restaurant/
+Ikarus,140 - 210 EUR,https://www.hangar-7.com/

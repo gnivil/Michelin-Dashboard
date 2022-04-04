@@ -1,0 +1,111 @@
+name,latitude,longitude,city,region,cuisine,Price Range,Restauarant Website,michelin_stars
+SENNS.Restaurant,47.83636,13.06389,Salzburg,Austria,Creative,85 - 205 EUR,https://www.senns.restaurant/,2
+Ikarus,47.79536,13.00695,Salzburg,Austria,Creative,140 - 210 EUR,https://www.hangar-7.com/,2
+Mraz & Sohn,48.23129,16.37637,Wien,Austria,Creative,145 EUR,https://www.mrazundsohn.at/,2
+Konstantin Filippou,48.21056,16.37996,Wien,Austria,Modern cuisine,56 - 189 EUR,https://www.konstantinfilippou.com/,2
+Silvio Nickol Gourmet Restaurant,48.20558,16.37693,Wien,Austria,Modern cuisine,23 - 165 EUR,https://www.palais-coburg.com/,2
+Steirereck im Stadtpark,48.20229,16.3805,Wien,Austria,Creative,74 - 169 EUR,https://www.steirereck.at/,2
+Baumé,37.4285,-122.14272,South San Francisco,California,Contemporary,,,2
+Commis,37.82476,-122.25505,San Francisco,California,Contemporary,189 USD,www.commisrestaurant.com,2
+Californios,37.75555,-122.417145,San Francisco,California,Mexican,,,2
+Lazy Bear,37.760204,-122.41969,San Francisco,California,Contemporary,,,2
+Saison,37.76327,-122.41543,San Francisco,California,Californian,,,2
+Campton Place,37.78923,-122.40665,San Francisco,California,Indian,,,2
+Coi,37.79812,-122.40331,San Francisco,California,Contemporary,,,2
+Acquerello,37.79167,-122.42131,San Francisco,California,Italian,,,2
+Urasawa,34.067352,-118.40067,Los Angeles,California,Japanese,,,2
+Sushi Ginza Onodera,34.08238,-118.37654,Los Angeles,California,Japanese,300 USD,https://www.onodera-group.com/,2
+Somni,34.070095,-118.37649,Los Angeles,California,Contemporary,,,2
+Providence,34.083523,-118.33019,Los Angeles,California,Seafood,225 - 475 USD,https://www.providencela.com/,2
+n/naka,34.02526,-118.41206,Los Angeles,California,Contemporary,,,2
+Vespertine,34.024204,-118.38166,Los Angeles,California,Contemporary,295 USD,www.vespertine.la,2
+Smyth,41.885,-87.660736,Chicago,Chicago,Contemporary,225 - 280 USD,https://www.smythandtheloyalist.com/,2
+Oriole,41.886196,-87.64513,Chicago,Chicago,Contemporary,215 USD,https://www.oriolechicago.com/,2
+Acadia,41.85904,-87.62562,Chicago,Chicago,Contemporary,,,2
+KOKS,62.13667,-7.022025,Leynar,Denmark,Creative,,,2
+Henne Kirkeby Kro,55.72682,8.242021,Henne,Denmark,Classic cuisine,"650 - 1,495 DKK",https://www.hennekirkebykro.dk/,2
+a‚o‚c,55.68305,12.58921,København,Denmark,Modern cuisine,,,2
+noma,55.68332,12.61006,København,Denmark,Creative,,,2
+Kadeau Copenhagen,55.67219,12.58848,København,Denmark,Modern cuisine,,,2
+Spondi,37.96525,23.742971,Athína,Greece,French,120 - 165 EUR,https://www.spondi.gr/,2
+Sun Tung Lok,22.30099,114.17221,Hong Kong,Hong Kong,Cantonese,,,2
+Yan Toh Heen,22.293337,114.17395,Hong Kong,Hong Kong,Cantonese,,,2
+Tin Lung Heen,22.30357,114.16007,Hong Kong,Hong Kong,Cantonese,,,2
+Tenku RyuGin,22.30331,114.16021,Hong Kong,Hong Kong,Japanese,,,2
+Forum,22.281616,114.1824,Hong Kong,Hong Kong,Cantonese,,,2
+Sushi Saito,22.286467,114.15677,Hong Kong,Hong Kong,Sushi,,,2
+Pierre,22.282127,114.15948,Hong Kong,Hong Kong,French contemporary,,,2
+Ying Jee Club,22.284338,114.156654,Hong Kong,Hong Kong,Cantonese,,,2
+Écriture,22.28315,114.1554,Hong Kong,Hong Kong,French contemporary,,,2
+Ta Vie,22.282766,114.15529,Hong Kong,Hong Kong,Innovative,,,2
+Amber,22.280596,114.15764,Hong Kong,Hong Kong,French contemporary,,,2
+Kashiwaya,22.280643,114.15674,Hong Kong,Hong Kong,Japanese,,,2
+Onyx,47.49712,19.05067,Budapest,Hungary,Modern cuisine,,,2
+Feng Wei Ju,22.18996,113.54794,Macau,Macau,Hunanese and Sichuan,,,2
+Golden Flower,22.18753,113.54806,Macau,Macau,Chinese,,,2
+Mizumi (Macau),22.188755,113.54488,Macau,Macau,Japanese,,,2
+The Tasting Room,22.14958,113.56505,Macau,Macau,French contemporary,,,2
+Alain Ducasse at Morpheus,22.14293,113.563774,Macau,Macau,French contemporary,,,2
+L'Atelier de Joël Robuchon,40.742905,-74.00769,New York,New York City,French,103 - 235 USD,https://latelier-newyork.com/,2
+Jungsik,40.718685,-74.00911,New York,New York City,Korean,165 - 235 USD,https://www.jungsik.com/,2
+Atera,40.716797,-74.00565,New York,New York City,Contemporary,285 USD,http://www.ateranyc.com/,2
+Jean-Georges,40.76907,-73.98155,New York,New York City,Contemporary,75 - 248 USD,https://www.jean-georgesrestaurant.com/,2
+Marea,40.76749,-73.98114,New York,New York City,Seafood,,,2
+Gabriel Kreuther,40.75397,-73.982025,New York,New York City,Contemporary,90 - 245 USD,https://www.gknyc.com/,2
+Ichimura at Uchū,40.721832,-73.99012,New York,New York City,Japanese,300 USD,https://www.uchu.nyc/,2
+Sushi Ginza Onodera,40.752396,-73.981575,New York,New York City,Japanese,300 USD,https://www.onodera-group.com/,2
+Ko,40.72909,-73.98448,New York,New York City,Contemporary,225 USD,https://www.momofuku.com/,2
+The Modern,40.76106,-73.97628,New York,New York City,Contemporary,138 - 188 USD,https://www.themodernnyc.com/,2
+Aquavit,40.76078,-73.97214,New York,New York City,Scandinavian,58 - 155 USD,https://www.aquavit.org/,2
+Daniel,40.7666,-73.96745,New York,New York City,French,158 - 250 USD,https://www.danielnyc.com/,2
+Aska,40.71222,-73.96642,New York,New York City,Scandinavian,195 - 295 USD,https://www.askanyc.com/,2
+Blanca,40.70492,-73.93354,New York,New York City,Contemporary,198 USD,https://www.blancanyc.com/,2
+Patrick Guilbaud,53.33893,-6.25283,City Centre,Ireland,Modern French,65 - 205 EUR,https://www.restaurantpatrickguilbaud.ie/,2
+Oro,-22.98601,-43.22471,Rio de Janeiro - 22441,Rio de Janeiro,creative,445 - 555 BRL,http://www.ororestaurante.com.br/,2
+Tuju,-23.55653,-46.69083,São Paulo - 05416,Sao Paulo,creative,,,2
+D.O.M.,-23.56618,-46.66742,São Paulo - 01411,Sao Paulo,creative,415 - 700 BRL,http://www.domrestaurante.com.br/,2
+Kojima,37.52559,127.04193,Seoul,South Korea,Sushi,"200,000 - 380,000 KRW",,2
+Jungsik,37.525585,127.04107,Seoul,South Korea,Korean contemporary,"78,000 - 230,000 KRW",https://www.jungsik.kr/,2
+Kwonsooksoo,37.526752,127.03571,Seoul,South Korea,Korean,"105,000 - 240,000 KRW",https://www.kwonsooksoo.com/,2
+Mingles,37.52219,127.0392,Seoul,South Korea,Korean contemporary,"120,000 - 220,000 KRW",http://www.restaurant-mingles.com/,2
+Alla Prima,37.51844,127.03008,Seoul,South Korea,Innovative,,,2
+Waku Ghin,1.283175,103.8598,Singapore,Singapore,Japanese contemporary,550 - 700 SGD,https://www.marinabaysands.com/,2
+Odette,1.2896459,103.8516,Singapore,Singapore,French contemporary,,,2
+Shoukouwa,1.2863698,103.854,Singapore,Singapore,Sushi,320 - 650 SGD,https://www.shoukouwa.com.sg/,2
+Shisen Hanten,1.302395,103.8365,Singapore,Singapore,Chinese,50 - 150 SGD,https://www.shisenhanten.com.sg/,2
+Les Amis,1.3066648,103.8314,Singapore,Singapore,French,,,2
+Fäviken Magasinet,63.43626,13.29337,Järpen,Sweden,Creative,,,2
+Gastrologik,59.33365,18.0807,Stockholm,Sweden,Creative,,,2
+Oaxen Krog,59.322342,18.101831,Stockholm,Sweden,Creative,,,2
+Vollmers,55.604427,12.995848,Malmö,Sweden,Creative,,,2
+Daniel Berlin,55.61246,13.99265,Skåne-Tranås,Sweden,Creative,,,2
+RAW,25.082666,121.559525,Taipei,Taipei,Innovative,,,2
+Shoun RyuGin,25.08258,121.5595,Taipei,Taipei,Japanese contemporary,,,2
+Taïrroir,25.082718,121.559296,Taipei,Taipei,Innovative,"2,180 - 4,680 TWD",https://www.tairroir.com/,2
+Sushi Amamoto,25.037945,121.55487,Taipei,Taipei,Sushi,"3,000 - 5,000 TWD",,2
+The Guest House,25.04486,121.52198,Taipei,Taipei,Sichuan-Huai Yang,"1,200 - 4,280 TWD",https://www.sheratongrandtaipei.com/,2
+Gaggan,13.737679,100.542145,Bangkok,Thailand,Innovative,,,2
+Sühring,13.710947,100.545654,Bangkok,Thailand,European contemporary,"3,500 - 5,500 THB",https://www.restaurantsuhring.com/,2
+Mezzaluna,13.722148,100.51691,Bangkok,Thailand,Innovative,"6,500 THB",https://www.lebua.com/mezzaluna,2
+Le Normandie,13.723197,100.513855,Bangkok,Thailand,French contemporary,"3,200 - 8,200 THB",https://www.mandarinoriental.com/bangkok,2
+minibar,38.896294,-77.02386,"Washington, D.C.",Washington DC,Contemporary,295 USD,https://www.minibarbyjoseandres.com/,2
+Pineapple and Pearls,38.880707,-76.99514,"Washington, D.C.",Washington DC,Contemporary,150 - 325 USD,https://www.pineappleandpearls.com/,2
+Andrew Fairlie at Gleneagles,56.28339,-3.75149,Auchterarder,United Kingdom,Creative French,115 - 155 GBP,https://www.andrewfairlie.co.uk/,2
+L'Enclume,54.201885,-2.953807,Cartmel,United Kingdom,Creative,79 - 175 GBP,https://www.lenclume.co.uk/,2
+Raby Hunt,54.56647,-1.689258,Summerhouse,United Kingdom,Modern British,230 - 300 GBP,https://www.rabyhuntrestaurant.co.uk/,2
+Moor Hall,53.54162,-2.8895495,Aughton,United Kingdom,Modern British,95 - 195 GBP,https://www.moorhall.com/,2
+Restaurant Sat Bains,52.92438,-1.1733198,Nottingham,United Kingdom,Creative,120 - 155 GBP,https://www.restaurantsatbains.com/,2
+Restaurant Nathan Outlaw,50.594086,-4.82854,Port Isaac,United Kingdom,Seafood,,,2
+Belmond Le Manoir aux Quat' Saisons,51.71674,-1.09187,Great Milton,United Kingdom,French,,,2
+Midsummer House,52.21243,0.12779,Cambridge,United Kingdom,Modern cuisine,115 - 230 GBP,www.midsummerhouse.co.uk/,2
+Hand and Flowers,51.57031,-0.78113,Marlow,United Kingdom,Modern British,40 - 115 GBP,https://www.thehandandflowers.co.uk/,2
+Ledbury,51.51674,-0.20007,North Kensington,United Kingdom,Modern cuisine,,,2
+CORE by Clare Smyth,51.51261,-0.2030516,North Kensington,United Kingdom,Modern British,,,2
+Le Gavroche,51.51127,-0.15517,Mayfair,United Kingdom,French,85 - 178 GBP,https://www.le-gavroche.co.uk/,2
+Kitchen Table at Bubbledogs,51.52041,-0.13647,Bloomsbury,United Kingdom,Modern cuisine,,,2
+Hélène Darroze at The Connaught,51.5101,-0.1495701,Mayfair,United Kingdom,Modern cuisine,,,2
+Dinner by Heston Blumenthal,51.50208,-0.16011,Hyde Park,United Kingdom,Traditional British,87 - 106 GBP,https://www.dinnerbyheston.com/,2
+Umu,51.5113,-0.14455,Mayfair,United Kingdom,Japanese,,,2
+Sketch (The Lecture Room & Library),51.51287,-0.14136,Mayfair,United Kingdom,Modern French,,,2
+Greenhouse,51.50769,-0.14926,Mayfair,United Kingdom,Creative,,,2
+Claude Bosi at Bibendum,51.49341,-0.1690893,Chelsea,United Kingdom,French,105 - 175 GBP,https://www.claudebosi.com/,2

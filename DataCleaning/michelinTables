@@ -1,0 +1,74 @@
+-- Creating table schema 
+-- Create Tables
+
+
+-- Create oneStar Table  
+CREATE TABLE oneStar (
+	name VARCHAR (200),
+	year INT,
+	latitude float(8),
+	longitude float(8),
+	city VARCHAR (30),
+	region VARCHAR (30),
+	zipCode VARCHAR (10),
+	cuisine VARCHAR (30),
+	price VARCHAR (10),
+	url VARCHAR (250)
+);
+SELECT * FROM oneStar
+
+-- -----------------------------------------------------------------------
+-- Create twoStars Table 
+
+CREATE TABLE twoStars (
+	name VARCHAR (150),
+	year INT,
+	latitude float(8),
+	longitude float(8),
+	city VARCHAR (30),
+	region VARCHAR (30),
+	zipCode VARCHAR (10),
+	cuisine VARCHAR (30),
+	price VARCHAR (10),
+	url VARCHAR (250)
+);
+SELECT * FROM twoStars
+
+-- -----------------------------------------------------------------------
+-- Create threeStars Table
+
+CREATE TABLE threeStars (
+	name VARCHAR (150),
+	year INT,
+	latitude float(8),
+	longitude float(8),
+	city VARCHAR (30),
+	region VARCHAR (30),
+	zipCode VARCHAR (10),
+	cuisine VARCHAR (30),
+	price VARCHAR (10),
+	url VARCHAR (250)
+);
+SELECT * FROM threeStars
+
+-- -----------------------------------------------------------------------
+-- Alter our varchar | Some Restaurants had exceptinally long names 
+
+ALTER TABLE oneStar ALTER COLUMN name type VARCHAR (200);
+ALTER TABLE TwoStars ALTER COLUMN name type VARCHAR (200);
+ALTER TABLE ThreeStars ALTER COLUMN name type VARCHAR (200);
+
+-- -----------------------------------------------------------------------
+-- Create our merged Table 
+
+CREATE TABLE completeList (
+	restaurantID INT PRIMARY KEY NOT NULL,
+	name VARCHAR (200),
+	latitude float(8),
+	longitude float(8),
+	city VARCHAR (30),
+	region VARCHAR (30),
+	cuisine VARCHAR (30),
+	url VARCHAR (250),
+	michelin_stars INT
+);	

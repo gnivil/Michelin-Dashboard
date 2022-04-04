@@ -1,0 +1,31 @@
+-- Creating table schema 
+-- Create Tables
+
+
+-- Create oneStar Table  
+
+CREATE TABLE oneStar_scrape (
+	restaurant_name VARCHAR (150),
+	price_range VARCHAR (100),
+	restaurant_website VARCHAR (200)
+);
+
+
+-- -----------------------------------------------------------------------
+-- Create twoStars Table 
+
+CREATE TABLE twoStars_scrape (
+	restaurant_name VARCHAR (150),
+	price_range VARCHAR (100),
+	restaurant_website VARCHAR (200)
+);
+
+
+-- -----------------------------------------------------------------------
+-- Create threeStars Table
+
+CREATE TABLE threeStars_scrape (
+	restaurant_name VARCHAR (150),
+	price_range VARCHAR (100),
+	restaurant_website VARCHAR (200)
+);

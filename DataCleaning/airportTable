@@ -1,0 +1,13 @@
+create table airports (
+	icao_code CHAR (4) PRIMARY KEY NOT NULL,
+	name VARCHAR (100),
+	city VARCHAR (50),
+	country VARCHAR (50),
+	latitude FLOAT (8),
+	longitude FLOAT (8)
+);
+
+
+ALTER TABLE airports ALTER COLUMN name type VARCHAR (200);
+ALTER TABLE airports ALTER COLUMN city type VARCHAR (100);
+ALTER TABLE airports ALTER COLUMN country type VARCHAR (100);

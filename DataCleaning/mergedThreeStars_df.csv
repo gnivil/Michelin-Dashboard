@@ -1,0 +1,32 @@
+name,latitude,longitude,city,region,cuisine,Price Range,Restauarant Website,michelin_stars
+Amador,48.25406,16.35915,Wien,Austria,Creative,35 - 275 EUR,http://www.restaurant-amador.com/,3
+Manresa,37.22761,-121.98071,South San Francisco,California,Contemporary,325 USD,https://www.manresarestaurant.com/,3
+Benu,37.78521,-122.39876,San Francisco,California,Asian,350 USD,https://www.benusf.com/,3
+Quince,37.79762,-122.40337,San Francisco,California,Contemporary,195 - 298 USD,https://www.quincerestaurant.com/,3
+Atelier Crenn,37.79835,-122.43586,San Francisco,California,Contemporary,298 USD,https://www.ateliercrenn.com/,3
+The French Laundry,38.40443,-122.36474,San Francisco,California,Contemporary,350 - 450 USD,https://www.thomaskeller.com/tfl,3
+SingleThread,38.612164,-122.869705,San Francisco,California,Contemporary,375 USD,https://www.singlethreadfarms.com/,3
+Alinea,41.91328,-87.64798,Chicago,Chicago,Contemporary,210 - 365 USD,https://www.alinearestaurant.com/,3
+Geranium,55.70393,12.57197,København,Denmark,Creative,"2,800 DKK",https://www.geranium.dk/,3
+T'ang Court,22.296572,114.1698,Hong Kong,Hong Kong,Cantonese,"400 - 1,700 HKD",https://www.langhamhotels.com/hongkong,3
+Lung King Heen,22.28665,114.15674,Hong Kong,Hong Kong,Cantonese,"500 - 2,980 HKD",https://www.fourseasons.com/hongkong,3
+Caprice,22.286646,114.15662,Hong Kong,Hong Kong,French,"745 - 2,600 HKD",www.fourseasons.com/hongkong,3
+L'Atelier de Joël Robuchon,22.281199,114.15816,Hong Kong,Hong Kong,French contemporary,"680 - 2,600 HKD",https://www.robuchon.hk/,3
+Sushi Shikon,22.28511,114.15208,Hong Kong,Hong Kong,Sushi,"2,000 - 3,500 HKD",https://www.sushi-shikon.com/,3
+The Eight,22.190475,113.54341,Macau,Macau,Chinese,"400 - 3,000 MOP",https://www.grandlisboahotels.com/,3
+Robuchon au Dôme,22.189949,113.54395,Macau,Macau,French contemporary,"988 - 3,500 MOP",https://www.grandlisboahotels.com/,3
+Jade Dragon,22.149137,113.56715,Macau,Macau,Cantonese,"400 - 2,000 MOP",https://www.cityofdreamsmacau.com/,3
+Maaemo,59.910477,10.760408,Oslo,Norway,Modern cuisine,"3,500 NOK",www.maaemo.no,3
+Masa,40.76855,-73.98335,New York,New York City,Japanese,595 USD,https://www.masanyc.com/,3
+Per Se,40.76828,-73.98292,New York,New York City,Contemporary,355 USD,http://www.perseny.com/,3
+Le Bernardin,40.76177,-73.98223,New York,New York City,Seafood,93 - 228 USD,https://www.le-bernardin.com/,3
+Eleven Madison Park,40.7417,-73.98712,New York,New York City,Contemporary,125 - 285 USD,https://www.elevenmadisonpark.com/,3
+Chef's Table at Brooklyn Fare,40.68872,-73.98581,New York,New York City,Contemporary,395 USD,http://www.brooklynfare.com/,3
+La Yeon,37.555813,127.00517,Seoul,South Korea,Korean,"109,000 - 280,000 KRW",https://www.shilla.net/seoul,3
+Gaon,37.52265,127.03595,Seoul,South Korea,Korean,"120,000 - 240,000 KRW",http://gaonkr.com,3
+Frantzén,59.33418,18.05812,Stockholm,Sweden,Modern cuisine,"3,800 SEK",https://www.restaurantfrantzen.com/,3
+Le Palais,25.049496,121.51674,Taipei,Taipei,Cantonese,"2,000 - 5,000 TWD",https://www.palaisdechinehotel.com/,3
+The Inn at Little Washington,38.713623,-78.16208,"Washington, D.C.",Washington DC,American,238 USD,https://www.theinnatlittlewashington.com/,3
+Fat Duck,51.50828,-0.70232,Bray,United Kingdom,Creative,325 GBP,https://www.thefatduck.co.uk/,3
+Waterside Inn,51.50773,-0.70121,Bray,United Kingdom,Classic French,140 - 188 GBP,www.waterside-inn.co.uk,3
+Alain Ducasse at The Dorchester,51.50712,-0.1525201,Mayfair,United Kingdom,French,70 - 170 GBP,https://www.alainducasse-dorchester.com/,3
